@@ -1,7 +1,7 @@
 # Applications of Reinforcement Learning in AI
 
 Welcome to the Applications of Reinforcement Learning in AI Repository! This repository showcases various reinforcement learning (RL) applications in artificial intelligence (AI). Here, you will find a collection of projects, tutorials, and resources demonstrating how RL techniques can be applied to solve real-world problems across different domains.
-
+https://cdn.prod.website-files.com/5ef788f07804fb7d78a4127a/6218cbc06cc271667c58f383_Applications-of-reinforcement-learning.jpg
 # Contents
 
     Introduction to Reinforcement Learning
@@ -39,7 +39,7 @@ Welcome to the Applications of Reinforcement Learning in AI Repository! This rep
     Resources
         A curated list of books, research papers, and online courses on RL
         Links to RL communities and forums for collaboration and discussion
-
+https://techvidvan.com/tutorials/wp-content/uploads/2020/08/Reinforcement-Learning-in-ML-TV.jpg
 # Getting Started
 
 To get started with the projects and tutorials in this repository, clone the repository to your local machine:
