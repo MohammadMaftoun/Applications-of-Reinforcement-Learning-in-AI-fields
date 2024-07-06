@@ -44,11 +44,10 @@ Welcome to the Applications of Reinforcement Learning in AI Repository! This rep
 
 To get started with the projects and tutorials in this repository, clone the repository to your local machine:
 
-bash
-
 git clone https://github.com/MohammadMaftoun/Applications-of-Reinforcement-Learning-in-AI-fields.git
 
 Explore the directories and follow the instructions in the README files to set up the required environments and run the projects.
+
 # Contributing
 
 We welcome contributions from the community! If you have an interesting RL application, tutorial, or hyperparameter optimization technique to share, please fork the repository and submit a pull request. Make sure to follow the contribution guidelines and include a detailed description of your project or tutorial.
