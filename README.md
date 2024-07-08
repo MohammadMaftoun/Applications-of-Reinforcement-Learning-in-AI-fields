@@ -1,6 +1,6 @@
 # Applications of Reinforcement Learning in AI
 
-Welcome to the Applications of Reinforcement Learning in AI Repository! This repository showcases various reinforcement learning (RL) applications in artificial intelligence (AI). Here, you will find a collection of projects, tutorials, and resources demonstrating how RL techniques can be applied to solve real-world problems across different domains. Many behaviorist’s ideas have been converted into concepts used in computational RL algorithms. RL is a general-purpose framework for decision-making that can be applied in many kinds of situations whenever an artificial agent is in a situation where it has some action choices. 
+Welcome to the Applications of Reinforcement Learning in AI Repository! This repository showcases various reinforcement learning (RL) applications in artificial intelligence (AI). Here, you will find a collection of projects, tutorials, and resources demonstrating how RL techniques can be applied to solve real-world problems across different domains. Many behaviorist’s ideas have been converted into concepts used in computational RL algorithms. RL is a general-purpose framework for decision-making that can be used in many kinds of situations whenever an artificial agent is in a situation where it has some action choices. 
 
 ![RL](https://cdn.prod.website-files.com/5ef788f07804fb7d78a4127a/6218cbc06cc271667c58f383_Applications-of-reinforcement-learning.jpg)
 
