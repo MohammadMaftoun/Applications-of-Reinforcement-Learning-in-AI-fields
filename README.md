@@ -53,4 +53,4 @@ Explore the directories and follow the instructions in the README files to set u
 
 # Contributing
 
-We welcome contributions from the community! If you have an interesting RL application, tutorial, or hyperparameter optimization technique to share, please fork the repository and submit a pull request. Make sure to follow the contribution guidelines and include a detailed description of your project or tutorial.
+We welcome contributions from the community! If you have an interesting RL application, tutorial, or hyperparameter optimization technique to share, please fork the repository and submit a pull request. Follow the contribution guidelines and include a detailed description of your project or tutorial.
