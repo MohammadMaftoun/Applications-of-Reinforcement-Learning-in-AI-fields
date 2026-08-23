@@ -37,7 +37,7 @@ This repository showcases various applications of RL in the field of artificial 
     Tutorials
         Step-by-step guides to implementing RL algorithms from scratch
         Hands-on tutorials for using popular RL libraries
-        Real-world case studies and example projects
+        Real-world case studies and instance projects
 
     Resources
         A curated list of books, research papers, and online courses on RL
